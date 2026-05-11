@@ -46,8 +46,6 @@ CP02 Gen AI e Gov em IA.ipynb
 git clone https://github.com/fehonorato1107/CP02-Gen-AI-e-Gov-em-IA
 ```
 
-Substitua `SEU-USUARIO` e `NOME-DO-REPOSITORIO` pelo link real do repositório no GitHub.
-
 ### 2. Entrar na pasta do projeto
 
 ```bash
