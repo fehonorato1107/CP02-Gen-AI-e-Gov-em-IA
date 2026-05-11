@@ -33,7 +33,7 @@ CP02_Gen_AI_e_Gov_em_IA.ipynb
 
 ```text
 .
-├── CP02 Gen AI e Gov em IA.ipynb
+├── CP02_Gen_AI_e_Gov_em_IA.ipynb
 ├── README.md
 └── requirements.txt
 ```
