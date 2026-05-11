@@ -15,7 +15,7 @@ Além da construção do RAG, o projeto também demonstra a vulnerabilidade da a
 O notebook principal do projeto é:
 
 ```text
-CP02 Gen AI e Gov em IA.ipynb
+CP02_Gen_AI_e_Gov_em_IA.ipynb
 ```
 
 ## Tecnologias Utilizadas
