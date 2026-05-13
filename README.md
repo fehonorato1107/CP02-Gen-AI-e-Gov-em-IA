@@ -164,10 +164,6 @@ Para garantir a reprodutibilidade, o projeto contém:
 - arquivo `requirements.txt`;
 - instruções de execução neste README.
 
-## Observação
-
-Todos os dados sensíveis utilizados no projeto são fictícios e foram criados apenas para fins acadêmicos.
-
 ## Integrantes
 
 - 562468 - Bernardo Braga Perobeli
