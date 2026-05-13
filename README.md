@@ -78,7 +78,7 @@ O notebook pode ser executado em:
 Abra o arquivo:
 
 ```text
-CP02 Gen AI e Gov em IA.ipynb
+CP02_Gen_AI_e_Gov_em_IA.ipynb
 ```
 
 ### 5. Executar as células
